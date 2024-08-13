@@ -1,6 +1,8 @@
-cv2
-numpy
-easyocr
+streamlit
+opencv-python
 torch
+easyocr
+Pillow
+numpy
 matplotlib
 PIL
