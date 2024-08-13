@@ -1,0 +1,6 @@
+cv2
+numpy
+easyocr
+torch
+matplotlib
+PIL
