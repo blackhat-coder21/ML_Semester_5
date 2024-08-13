@@ -5,4 +5,3 @@ easyocr
 Pillow
 numpy
 matplotlib
-PIL
